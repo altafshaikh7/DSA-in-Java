@@ -1,20 +1,24 @@
+// Types of Programming Languages / Paradigms
+
+// #1 Procedural Programming
+// #2 Functional Programming
+// #3 Object-Oriented Programming
 
 
-// type of languages
+// 1. Procedural Programming
+// - Specifies a series of well-structured steps and procedures
+//   to compose a program.
+// - Focuses on functions and sequence of instructions.
 
-// #1. procedural
-// #2. functional
-// #3. object oriented
+
+// 2. Functional Programming
+// - Writing programs using pure functions.
+// - Avoids modifying variables and data.
+// - Creates new data instead of changing existing data.
 
 
-// Procedural
-// -Specifies a series of well structure steps and procedure to compose 
-// a program.
-
-// Functional
-// -wrinting a program only in pure function. i.e never modify variables but only create new one as ouput.
-
-// Object oriented
-// -resolve around object
-// -Dat + Code = Object
-// developed to make it eaiser to reuse code and maintain software.
+// 3. Object-Oriented Programming (OOP)
+// - Revolves around objects.
+// - Data + Methods = Object
+// - Developed to make software easier to reuse,
+//   manage, and maintain.
