@@ -1,6 +1,6 @@
 
 // // ========================
-// //       FLOWCHARTS
+// // FLOWCHARTS
 // // ========================
 
 // // Flowchart ek diagram hota hai
@@ -10,49 +10,32 @@
 // // Isme symbols ka use hota hai
 // // taaki logic easily samajh aaye.
 
-
-
-
 // ========================
-//    Common Flowchart Symbols
+// Common Flowchart Symbols
 // ========================
 
 // 1. Oval → Start / End
-//    Example:
-//    ( START )
-
-
+// Example:
+// ( START )
 
 // 2. Rectangle → Process
-//    Calculation ya instruction
+// Calculation ya instruction
 
-//    +-------------+
-//    |  x = a + b  |
-//    +-------------+
-
-
-
-// 3. Parallelogram → Input / Output
-
-//    +----------------+
-//    / Enter Number  /
-//    +----------------+
-
-
+// +-------------+
+// | x = a + b |
+// +-------------+
 
 // 4. Diamond → Decision
 
-//         /\
-//        /  \
-//       < x>0 >
-//        \  /
-//         \/
+// /\
+// / \
+// < x>0 >
+// \ /
+// \/
 
-//    Yes / No condition
-
-
+// Yes / No condition
 
 // 5. Arrow → Flow Direction
 
-//    ↓
-//    →
+// ↓
+// →
