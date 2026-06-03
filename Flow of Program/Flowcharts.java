@@ -25,6 +25,12 @@
 // | x = a + b |
 // +-------------+
 
+// 3. Parallelogram → Input / Output
+
+// +----------------+
+// / Enter Number /
+// +----------------+
+
 // 4. Diamond → Decision
 
 // /\
